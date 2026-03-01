@@ -1,0 +1,6 @@
+aiohttp==3.9.3
+aiodns==3.2.0
+rich==13.7.1
+colorama==0.4.6
+tqdm==4.66.2
+validators==0.28.1
